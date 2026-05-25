@@ -41,3 +41,5 @@ while True:
  
     else:
         print("Invalid option. Enter 1, 2 or 3.")
+        
+print("To jest testowy plik")
